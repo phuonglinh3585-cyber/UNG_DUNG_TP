@@ -16,8 +16,6 @@ Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi nhữ
 
 🌷Đối tượng nghiên cứu: Ứng dụng của tích phân trong các bài toán thực tế và phương pháp dạy học dạng toán này cho học sinh THPT.
 
-🌷Đội tượng khảo sát: Học sinh lớp 12A1 tại trường THPT Nguyễn Du (Lâm Đồng).
-
 🌷Phạm vi nội dung: Tập trung vào 3 nhóm bài toán thực tế trọng tâm trong chương trình Giải tích 12:
 
 🌻Trong Hình học: Các bài toán thực tế về tính diện tích hình phẳng, tính thể tích vật thể / khối tròn xoay.
