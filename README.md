@@ -6,11 +6,11 @@ Trong chương trình giáo dục phổ thông hiện nay, Toán học là môn 
 
 Do đó, trong 2 tuần, đề tài tập trung trình bày 3 nội dung chính sau:
 
-  - 🌻Chương 1. Kiến thức chuẩn bị: Hệ thống hóa các định nghĩa, tính chất và định lý cơ bản về nguyên hàm và tích phân.
+#h(2em) 🌻Chương 1. Kiến thức chuẩn bị: Hệ thống hóa các định nghĩa, tính chất và định lý cơ bản về nguyên hàm và tích phân.
   
-  - 🌻Chương 2. Ứng dụng của tích phân trong thực tế: Trình bày các dạng toán ứng dụng trong Hình học, Vật lý – Cơ học và Kinh tế học.
+#h(2em) 🌻Chương 2. Ứng dụng của tích phân trong thực tế: Trình bày các dạng toán ứng dụng trong Hình học, Vật lý – Cơ học và Kinh tế học.
   
-  - 🌻Chương 3. Bài tập minh họa: Xây dựng hệ thống bài tập có lời giải chi tiết, bài tập tự luyện và đưa ra các nhận xét sư phạm về khó khăn, sai lầm thường gặp của học sinh.
+#h(2em) 🌻Chương 3. Bài tập minh họa: Xây dựng hệ thống bài tập có lời giải chi tiết, bài tập tự luyện và đưa ra các nhận xét sư phạm về khó khăn, sai lầm thường gặp của học sinh.
   
 Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được ý kiến đóng góp từ quý thầy cô và các bạn. Tuy đã cố gắng trong quá trình thực hiện nhưng do kiến thức và kinh nghiệm còn hạn chế nên tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được những ý kiến đóng góp của quý thầy cô và các bạn để nội dung tiểu luận được hoàn thiện hơn.
 
@@ -18,11 +18,11 @@ Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi nhữ
 
 🌷Phạm vi nội dung: Tập trung vào 3 nhóm bài toán thực tế trọng tâm trong chương trình Giải tích 12:
 
-🌻Trong Hình học: Các bài toán thực tế về tính diện tích hình phẳng, tính thể tích vật thể / khối tròn xoay.
+#h(2em) 🌻Trong Hình học: Các bài toán thực tế về tính diện tích hình phẳng, tính thể tích vật thể / khối tròn xoay.
 
-🌻Trong Vật lý và Cơ học: Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
+#h(2em) 🌻Trong Vật lý và Cơ học: Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
 
-🌻Trong Kinh tế học: tính giá trị thặng dư, hàm tổng từ hàm cận biên...
+#h(2em) 🌻Trong Kinh tế học: tính giá trị thặng dư, hàm tổng từ hàm cận biên...
 ## 🌷 NỘI DUNG 
 ### Chương 1:  Kiến thức chuẩn bị
 🌹 Mở đầu về nguyên hàm: Định nghĩa nguyên hàm, họ nguyên hàm, vi phân và các tính chất cơ bản.
@@ -33,25 +33,25 @@ Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi nhữ
 ### Chương 2: Ứng dụng của tích phân trong thực tế
 🌹Hình học:  
 
-🌻Tính diện tích hình phẳng (giới hạn bởi 1 hoặc nhiều đường cong). 
+#h(2em) 🌻Tính diện tích hình phẳng (giới hạn bởi 1 hoặc nhiều đường cong). 
 
-🌻Tính thể tích vật thể qua mặt cắt $S(x)$ và thể tích khối tròn xoay. 
+#h(2em) 🌻Tính thể tích vật thể qua mặt cắt $S(x)$ và thể tích khối tròn xoay. 
 
-🌻Công thức tính thể tích của các hình khối đặc biệt: chỏm cầu, chảo parabol, khối chóp cụt, khối nón cụt.   
+#h(2em) 🌻Công thức tính thể tích của các hình khối đặc biệt: chỏm cầu, chảo parabol, khối chóp cụt, khối nón cụt.   
 
 🌹Vật lý và Cơ học 
 
-🌻Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
+#h(2em) 🌻Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
 
-🌻Mối liên hệ giữa gia tốc $a(t)$, vận tốc $v(t)$ và quãng đường/độ dịch chuyển $s(t)$
+#h(2em) 🌻Mối liên hệ giữa gia tốc $a(t)$, vận tốc $v(t)$ và quãng đường/độ dịch chuyển $s(t)$
 
 🌹Kinh tế học
 
-🌻Tìm hàm tổng thể (tổng chi phí $TC$, tổng doanh thu $TR$) từ hàm cận biên ($MC$, $MR$). 
+#h(2em) 🌻Tìm hàm tổng thể (tổng chi phí $TC$, tổng doanh thu $TR$) từ hàm cận biên ($MC$, $MR$). 
 
-🌻Tính tổng tích lũy (quỹ vốn) từ tốc độ thay đổi theo thời gian.  
+#h(2em) 🌻Tính tổng tích lũy (quỹ vốn) từ tốc độ thay đổi theo thời gian.  
 
-🌻Tính Thặng dư tiêu dùng ($CS$) và Thặng dư sản xuất ($PS$).
+#h(2em) 🌻Tính Thặng dư tiêu dùng ($CS$) và Thặng dư sản xuất ($PS$).
 ### Chương 3: Bài tập minh họa
 Mỗi dạng bài gồm:
 
