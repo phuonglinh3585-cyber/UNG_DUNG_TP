@@ -46,6 +46,7 @@ Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi nhữ
 🌻Mối liên hệ giữa gia tốc $a(t)$, vận tốc $v(t)$ và quãng đường/độ dịch chuyển $s(t)$
 
 🌹Kinh tế học
+
 🌻Tìm hàm tổng thể (tổng chi phí $TC$, tổng doanh thu $TR$) từ hàm cận biên ($MC$, $MR$). 
 
 🌻Tính tổng tích lũy (quỹ vốn) từ tốc độ thay đổi theo thời gian.  
