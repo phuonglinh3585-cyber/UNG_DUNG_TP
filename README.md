@@ -14,7 +14,7 @@ Do đó, trong 2 tuần, đề tài tập trung trình bày 3 nội dung chính 
   
 Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được ý kiến đóng góp từ quý thầy cô và các bạn. Tuy đã cố gắng trong quá trình thực hiện nhưng do kiến thức và kinh nghiệm còn hạn chế nên tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được những ý kiến đóng góp của quý thầy cô và các bạn để nội dung tiểu luận được hoàn thiện hơn.
 
-**Phần mở đầu**
+**💡Phần mở đầu**
 
 🌷Đối tượng nghiên cứu: Ứng dụng của tích phân trong các bài toán thực tế và phương pháp dạy học dạng toán này cho học sinh THPT.
 
@@ -22,9 +22,9 @@ Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi nhữ
 
 -  Trong Hình học: Các bài toán thực tế về tính diện tích hình phẳng, tính thể tích vật thể / khối tròn xoay.
 
-🌻Trong Vật lý và Cơ học: Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
+-  Trong Vật lý và Cơ học: Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
 
-🌻Trong Kinh tế học: tính giá trị thặng dư, hàm tổng từ hàm cận biên...
+-  Trong Kinh tế học: tính giá trị thặng dư, hàm tổng từ hàm cận biên...
 ## 🌷 NỘI DUNG 
 ### Chương 1:  Kiến thức chuẩn bị
 🌹 Mở đầu về nguyên hàm: Định nghĩa nguyên hàm, họ nguyên hàm, vi phân và các tính chất cơ bản.
@@ -35,25 +35,25 @@ Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi nhữ
 ### Chương 2: Ứng dụng của tích phân trong thực tế
 🌹Hình học:  
 
-🌻Tính diện tích hình phẳng (giới hạn bởi 1 hoặc nhiều đường cong). 
+-  Tính diện tích hình phẳng (giới hạn bởi 1 hoặc nhiều đường cong). 
 
-🌻Tính thể tích vật thể qua mặt cắt $S(x)$ và thể tích khối tròn xoay. 
+-  Tính thể tích vật thể qua mặt cắt $S(x)$ và thể tích khối tròn xoay. 
 
-🌻Công thức tính thể tích của các hình khối đặc biệt: chỏm cầu, chảo parabol, khối chóp cụt, khối nón cụt.   
+-  Công thức tính thể tích của các hình khối đặc biệt: chỏm cầu, chảo parabol, khối chóp cụt, khối nón cụt.   
 
 🌹Vật lý và Cơ học 
 
-🌻Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
+-  Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
 
-🌻Mối liên hệ giữa gia tốc $a(t)$, vận tốc $v(t)$ và quãng đường/độ dịch chuyển $s(t)$
+-  Mối liên hệ giữa gia tốc $a(t)$, vận tốc $v(t)$ và quãng đường/độ dịch chuyển $s(t)$
 
 🌹Kinh tế học
 
-🌻Tìm hàm tổng thể (tổng chi phí $TC$, tổng doanh thu $TR$) từ hàm cận biên ($MC$, $MR$). 
+-  Tìm hàm tổng thể (tổng chi phí $TC$, tổng doanh thu $TR$) từ hàm cận biên ($MC$, $MR$). 
 
-🌻Tính tổng tích lũy (quỹ vốn) từ tốc độ thay đổi theo thời gian.  
+-  Tính tổng tích lũy (quỹ vốn) từ tốc độ thay đổi theo thời gian.  
 
-🌻Tính Thặng dư tiêu dùng ($CS$) và Thặng dư sản xuất ($PS$).
+-  Tính Thặng dư tiêu dùng ($CS$) và Thặng dư sản xuất ($PS$).
 ### Chương 3: Bài tập minh họa
 Mỗi dạng bài gồm:
 
