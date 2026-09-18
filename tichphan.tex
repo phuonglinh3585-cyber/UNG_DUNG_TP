@@ -242,15 +242,15 @@ Em xin chân thành cảm ơn!
             Trên cơ sở tham khảo các tài liệu, tiểu luận được chia thành ba chương với nội dung chính như sau:
             
             \textit{Chương 1. Kiến thức chuẩn bị}
-			
+           
            Chương này tập trung nhắc lại các định nghĩa, tính chất, định lý cốt lõi về nguyên hàm, tích phân xác định và tích phân bất định, qua đó xây dựng công cụ toán học vững chắc để phục vụ cho việc nghiên cứu các ứng dụng ở các chương tiếp theo.
 
             \textit{Chương 2. Ứng dụng của tích phân trong thực tế}
-			
+         
           Nội dung chương trình bày các hệ thống công thức cùng các dạng toán đặc trưng thuộc ba lĩnh vực ứng dụng quan trọng: Hình học (tính diện tích hình phẳng, thể tích khối tròn xoay), Vật lý và Cơ học và Kinh tế học (tính giá trị thặng dư, hàm tổng từ hàm cận biên).
              
              \textit{Chương 3. Bài tập minh họa}
-			 
+             
         đóng vai trò kết nối giữa lý thuyết và thực hành. Chương này không chỉ đề xuất phương pháp giải tổng quát cho từng dạng bài mà còn xây dựng hệ thống bài tập minh họa có lời giải chi tiết, kèm theo danh mục bài tập tự luyện phong phú. Đặc biệt, chương còn đưa ra những kết luận sư phạm sâu sắc thông qua việc chỉ ra ưu điểm, những điểm khó, các sai lầm dễ mắc phải của học sinh, từ đó giúp nâng cao hiệu quả giảng dạy và học tập chủ đề này.
         
         Tuy đã cố gắng trong quá trình thực hiện nhưng do kiến thức và kinh nghiệm còn hạn chế nên tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được những ý kiến đóng góp của quý thầy cô và các bạn để nội dung tiểu luận được hoàn thiện hơn.
@@ -440,7 +440,7 @@ $\displaystyle\int \sin(ax + b)\mathrm{d}x = \frac{-1}{a}\cos(ax + b) + C$ & $\d
 \begin{tabular}{|l|l|}
 \hline
 $\displaystyle\int 0\,\mathrm{d}x = C$ & $\displaystyle\int 1\mathrm{d}x = x + C$ \\ \hline
-$\displaystyle\int x^{\alpha}\mathrm{d}x = \frac{x^{\alpha+1}}{\alpha + 1} + C \quad (\alpha \neq 1)$ & $\displaystyle\int \frac{1}{x}\mathrm{d}x = \ln|x| + C$ \\ \hline
+$\displaystyle\int x^{\alpha}\mathrm{d}x = \frac{x^{\alpha+1}}{\alpha + 1} + C \quad (\alpha \neq -1)$ & $\displaystyle\int \frac{1}{x}\mathrm{d}x = \ln|x| + C$ \\ \hline
 $\displaystyle\int e^x \mathrm{d}x = e^x + C$ & $\displaystyle\int a^x \mathrm{d}x = \frac{a^x}{\ln a} + C \quad (0 < a \neq 1)$ \\ \hline
 $\displaystyle\int \cos x \mathrm{d}x = \sin x + C$ & $\displaystyle\int \sin x \mathrm{d}x = -\cos x + C$ \\ \hline
 $\displaystyle\int \frac{1}{\cos^2 x}\mathrm{d}x = \tan x + C$ & $\displaystyle\int \frac{1}{\sin^2 x}\mathrm{d}x = -\cot x + C$ \\ \hline
@@ -959,17 +959,31 @@ Anh Trí nhận thiết kế logo hình con mắt (phần được tô đậm) c
     \includegraphics[width=\linewidth]{hình 9.png}
 \end{minipage}
 \begin{center}
-    \textbf{Lời giải:}
+    \textbf{Ý tưởng giải:}
 \end{center}
+
+Vì đề chỉ cho hình vẽ, cần chuyển đường cong thành công thức toán học để tính toán nên phải tìm hai hàm parabol.
+
+Để xác định 2 đầu khóe mắt (điểm bắt đầu và kết thúc của logo), đây chính là 2 cận của tích phân thì phải tìm hoành độ giao điểm.
+
+Vì hình con mắt có cạnh cong, không có công thức tính diện tích thông thường (như tam giác, hình tròn) nên bắt buộc dùng tích phân.
+
+Lấy hàm trên trừ hàm dưới: Quy tắc toán học giúp phần diện tích tính ra luôn dương và chính xác.
+
+ Đổi từ đơn vị diện tích ($cm^2$) sang số tiền thực tế theo yêu cầu đề bài.
+\begin{center}
+    \textbf{Các bước giải:}
+\end{center}
+
 -Bước 1: Tìm phương trình 2 Parabol ($y = ax^2 + c$)
 
 Parabol trên $f(x)$: Đỉnh $(0; 2) \Rightarrow c = 2$. 
 
-Đi qua $((2; 1) \Rightarrow 1 = a \cdot 2^2 + 2 \Rightarrow a = -\frac{1}{4}$.$\Rightarrow f(x)=-\frac{1}{4}x^{2}+2$
+Đi qua $(2; 1) \Rightarrow 1 = a \cdot 2^2 + 2 \Rightarrow a = -\frac{1}{4}$ $\Rightarrow f(x)=-\frac{1}{4}x^{2}+2$
 
 Parabol dưới $g(x)$: Đỉnh $(0; -1) \Rightarrow c = -1$. 
 
-Đi qua $((2; 0) \Rightarrow 0 = a \cdot 2^2 - 1 \Rightarrow a = \frac{1}{4}$.
+Đi qua $(2; 0) \Rightarrow 0 = a \cdot 2^2 - 1 \Rightarrow a = \frac{1}{4}$
 $\Rightarrow g(x)=\frac{1}{4}x^{2}-1$
 \vspace{0.2cm}
 
@@ -985,11 +999,13 @@ Cho:\[(f(x) = g(x) \Leftrightarrow -\frac{1}{4}x^2 + 2 = \frac{1}{4}x^2 - 1 \Lef
 
 Vì chi phí sản xuất mỗi $cm^2$ là $1000$ đồng, tổng chi phí sản xuất một chiếc logo sẽ là:
 
-Chi phí$=S\times 1000\approx 9,79796\times 1000=9797,96 $(đồng)
+Chi phí $=S\times 1000\approx 9,79796\times 1000=9797,96 $(đồng)
 
 Làm tròn kết quả đến hàng đơn vị, đáp số là: 9798 đồng
 
-\noindent \textbf{Phân tích sư phạm bài toán:}
+\begin{center}
+    \textbf{Phân tích sư phạm bài toán:}
+\end{center} 
 \begin{itemize}
     \item \textbf{Ưu điểm:}
     \begin{itemize}
@@ -1007,11 +1023,27 @@ Làm tròn kết quả đến hàng đơn vị, đáp số là: 9798 đồng
 \noindent \textbf{Bài 2:}
 Một chi tiết máy được thiết kế từ khối hộp chữ nhật được mài nhẵn đều (bởi máy kỹ thuật số CNC) theo đường cong là một parabol $(P)$ đi qua hai điểm $E, A'$ và đỉnh $S$ cách đoạn $AB$ là $1\text{ (cm)}$ và phần cung $EB'$ là nửa Elip có đỉnh cách đoạn $AB$ là $1{,}5\text{ cm}$. Biết $AB = 6\text{ (cm)}$, $BC = 10\text{ (cm)}$, $BB' = B'E = 2\text{ (cm)}$. Thể tích của chi tiết máy này bằng bao nhiêu $\text{cm}^3$ (kết quả làm tròn đến hàng phần chục).
 \begin{center}
-        \includegraphics[width=0.4\textwidth]{hình 10.png}
+        \includegraphics[width=0.5\textwidth]{hình 10.png}
  \end{center}
  
 \begin{center}
-    \textbf{Lời giải:}
+    \textbf{Ý tưởng giải:}
+\end{center}
+
+Vì bài toán cho các đường cong phức tạp (Parabol và Elip) nhưng không có sẵn công thức tính diện tích hình học cơ bản, nên ta phải gắn hệ trục tọa độ $Oxy$ vào hình vẽ nhằm mục đích tìm ra tọa độ các điểm đặc biệt, từ đó lập được phương trình toán học cho hai đường cong này.
+
+Vì đây là một khối lăng trụ có các lát cắt dọc đều giống nhau, nên theo công thức hình học không gian, thể tích khối sẽ bằng diện tích của mặt thiết diện phía trước nhân với chiều dài $BC$. Do đó, mục tiêu chính là phải tìm được diện tích của toàn bộ mặt phẳng phía trước này.
+
+Vì mặt phẳng phía trước được cấu tạo từ hai loại đường cong khác nhau (một bên là Parabol, một bên là Elip), nên ta không thể dùng một công thức chung mà bắt buộc phải chia mặt phẳng này làm hai phần $S_{1}$ và $S_{2}$ để tính toán riêng biệt cho từng phần.
+
+Vì phần $S_{1}$ nằm hoàn toàn dưới đường cong Parabol, nên cách tối ưu nhất là sử dụng công thức tích phân của hàm bậc hai để tính ra diện tích chính xác của phần hình phẳng giới hạn bởi Parabol này.
+
+Vì phần $S_{2}$ chứa một cung lõm là nửa hình Elip nằm ở phía trên, nên thay vì tính tích phân hàm Elip rất phức tạp, ta dùng phương pháp loại trừ: lấy diện tích của hình chữ nhật bao quanh trừ đi diện tích của nửa hình Elip lõm để ra kết quả nhanh nhất.
+
+Vì sau khi cộng hai phần diện tích lại ta mới chỉ có diện tích của mặt phẳng 2D, nên bước cuối cùng ta phải nhân với chiều sâu $BC = 10 cm$ để "kéo dài" mặt phẳng này thành thể tích hình khối 3D theo đúng yêu cầu đề bài.
+
+\begin{center}
+    \textbf{Các bước giải:}
 \end{center}
 
 -Bước 1. Nhận dạng hình học
@@ -1062,7 +1094,9 @@ Một chi tiết máy được thiết kế từ khối hộp chữ nhật đư�
     V = S \cdot BC = \left(\frac{28}{3} - \frac{\pi}{4}\right) \cdot 10 \approx 85{,}5 \quad (\text{cm}^3)
     \]
 \end{itemize}
-\noindent \textbf{Phân tích sư phạm bài toán:}
+\begin{center}
+    \textbf{Phân tích sư phạm bài toán:}
+\end{center} 
 
 \begin{itemize}
     \item \textbf{Ưu điểm:}
@@ -1073,7 +1107,7 @@ Một chi tiết máy được thiết kế từ khối hộp chữ nhật đư�
     \end{itemize}
     \item \textbf{Điểm khó:} 
     \begin{itemize}
-        \item Học sinh phải biết tư duy \textbf{gián tiếp}: Tính thể tích vật thể lăng trụ bằng cách lấy diện tích mặt cắt lớn (hình chữ nhật) trừ đi các phần khuyết ($S_1, S_2$).
+        \item Học sinh phải biết tư duy : Tính thể tích vật thể lăng trụ bằng cách lấy diện tích mặt cắt lớn (hình chữ nhật) trừ đi các phần khuyết ($S_1, S_2$).
         \item Đọc và phân tích thông số hình học ẩn từ đề bài (khoảng cách từ đỉnh đến các cạnh đáy để suy ra chiều cao của parabol và bán trục elip). 
         \item Nhiều bước giải, nhiều công thức cần phải nhớ.
     \end{itemize}
@@ -1095,22 +1129,44 @@ Một chi tiết máy được thiết kế từ khối hộp chữ nhật đư�
     \includegraphics[width=\linewidth]{hình 11.png}
 \end{minipage}
  
- \begin{center}
-    \textbf{Lời giải:}
+\begin{center}
+    \textbf{Ý tưởng giải:}
 \end{center}
+
+Vì thùng rượu có mặt bên là đường cong lồi phức tạp, nên không thể dùng công thức hình trụ hay hình nón cơ bản mà bắt buộc phải đưa về bài toán tính thể tích khối tròn xoay trong tích phân.
+
+Vì đề bài hỏi đơn vị là "lít" (với 1 lít = 1 $\text{dm}^{3}$), nên ta cần đổi ngay kích thước từ $cm$ sang $dm$ để kết quả tính ra chính là số lít rượu cần tìm.
+
+Vì thiết diện là đường tròn tâm $O$ bán kính $R=6$, nên đường sinh của thùng rượu được biểu diễn bằng phương trình hình học đơn giản nhất là $y^2 = 36 - x^2$.
+
+Vì thùng đối xứng qua tâm và có chiều dài 8 $dm$, nên hai mặt đáy của thùng sẽ giới hạn không gian tính toán từ cận dưới $x=-4$ đến cận trên $x=4$.
+
+Vì vật thể được tạo thành bằng cách xoay đường cong quanh trục, nên ta áp dụng công thức tích phân chuẩn $V = \pi \int_{a}^{b} y^2 dx$ để quét và tính tổng toàn bộ dung tích bên trong thùng.
+\begin{center}
+    \textbf{Các bước giải:}
+\end{center}
+
 -Bước 1. Mô hình hóa
 \begin{itemize}
     \item Đường sinh là một cung tròn bán kính $R=60cm=6dm$, do đó khi quay quanh trục ta được thùng rượu vang.
     \item Hai đáy tròn bằng nhau suy ra hai mặt phẳng cắt mặt cầu đối xứng qua tâm.
     \item Khoảng cách giữa hai đáy là: $h=80cm=8dm$ nên mỗi đáy cách tâm 4 dm.
     \item Lấy O trùng với tâm của mặt cầu, trục Ox đi qua tâm hai đáy.
+    \end{itemize}
+    
 -Bước 2. Tính diện tích mặt cắt
 \begin{itemize}
     \item Các mặt cắt đều là hình tròn. Tiết diện tại $x$ là hình tròn có bán kính:
     \[r= \sqrt {R^2-x^2} = \sqrt{6^2-x^2} (dm)\]
+    \item Diện tích mặt cắt là: $S(x)=\pi r^2=\pi (36-x^2)$ $dm$
 \end{itemize}
-\end{itemize}
-\textbf{Phân tích sư phạm bài toán:}
+
+-Bước 3. Tính thể tích thùng rượu
+\[V = \int_{-4}^{4} S(x)\mathrm{d}x = \int_{-4}^{4} [\pi(36 - x^2)]\mathrm{d}x = \frac{736}{3}\pi {\approx 771\text{ (l)}}\]
+\begin{center}
+    \textbf{Phân tích sư phạm bài toán:}
+\end{center}
+
 \begin{itemize}
     \item \textbf{Ưu điểm:} 
     \begin{itemize}
@@ -1121,25 +1177,25 @@ Một chi tiết máy được thiết kế từ khối hộp chữ nhật đư�
     \item \textbf{Điểm khó:}
     \begin{itemize}
         \item Lúng túng khi chọn và đặt hệ trục tọa độ $Oxy$: Nhiều học sinh không biết nên đặt gốc tọa độ $O$ ở đâu (tại tâm thùng rượu, tại đáy, hay tại tâm của đường tròn chứa cung tròn đường sinh) để phương trình đường cong trở nên đơn giản nhất.
-        \item Xác định phương trình đường sinh: Việc chuyển đổi từ câu chữ "đường sinh là một phần đường tròn có bán kính bằng 60 cm" thành phương trình hàm số $y = \sqrt{R^2 - x^2}$ đòi hỏi khả năng tưởng tượng hình học tốt.
+        \item Xác định phương trình đường sinh: Việc chuyển đổi từ câu "đường sinh là một phần đường tròn có bán kính bằng 60 cm" thành phương trình hàm số $y = \sqrt{R^2 - x^2}$ đòi hỏi khả năng tưởng tượng hình học tốt.
     \end{itemize}
     \item \textbf{Lỗi dễ sai:}
     \begin{itemize}
         \item Sai lệch về cận tích phân: Khoảng cách giữa hai đáy là $80\text{ cm}$. Khi đặt gốc $O$ tại tâm đối xứng của thùng, cận tích phân phải đi từ $-40$ đến $40$. Học sinh rất dễ nhầm lẫn lấy cận từ $-80$ đến $80$ hoặc từ $0$ đến $80$.
-        \item Quên nhân $\pi$ hoặc bình phương trong công thức: Do áp dụng công thức vội vàng, học sinh hay quên dấu $\pi$ ở trước tích phân:$ V = \pi \int_{a}^{b} [f(x)]^2 dx$, dẫn đến kết quả sai lệch hoàn toàn.
+        \item Quên nhân $\pi$ hoặc bình phương trong công thức: Do áp dụng công thức vội vàng, học sinh hay quên dấu $\pi$ ở trước tích phân: $ V = \pi \int_{a}^{b} [f(x)]^2 dx$, dẫn đến kết quả sai lệch hoàn toàn.
         \item Nhầm lẫn công thức thể tích khối cầu: Một số học sinh làm bài theo quán tính, thấy hình vẽ giống hình cầu bị cắt hai đầu liền áp dụng sai công thức hoặc bấm máy tính nhầm sang thể tích chỏm cầu nhưng không tính toán kỹ vị trí tâm.
-        \item Sai sót khi đổi đơn vị: Kết quả tích phân ra đơn vị là $\text{cm}^{3}$. Học sinh thường quên hoặc đổi sai từ $\text{cm}^{3}$ sang lít $(1 \text{ lít} = 1\text{ dm}^3 = 1000\text{ cm}^3)$, dẫn đến việc không chọn được đáp án đúng (ra số quá lớn hoặc quá nhỏ).
+        \item Sai sót khi đổi đơn vị: Kết quả tích phân ra đơn vị là $\text{cm}^{3}$. Học sinh thường quên hoặc đổi sai từ $\text{cm}^{3}$ sang lít $(1 \text{ lít} = 1\text{ dm}^3 = 1000\text{ cm}^3)$, dẫn đến việc không chọn được đáp án đúng.
     \end{itemize}
 \end{itemize}
 \subsection{Bài tập luyện tập}
   \noindent
-\begin{minipage}[t]{0.70\textwidth}
+\begin{minipage}[t]{0.72\textwidth}
     \textbf{Bài 1.} Một cái hồ lô trang trí được thiết kế phần chứa nước có thể tích bằng với thể tích của một vật thể $(V)$ trong không gian. Biết điểm $M$ thuộc $(V)$ khi và chỉ khi $MA \le \sqrt{2}\,\text{dm}$ hoặc $MB \le \sqrt{5}\,\text{dm}$; trong đó $A$ và $B$ là hai điểm cố định, $AB = 3\,\text{dm}$. Thể tích phần chứa nước của hồ lô đó là bao nhiêu lít? (Làm tròn kết quả đến hàng phần chục)
     
     \noindent \textbf{ Đáp số:} \dotfill
 \end{minipage}%
 \hfill
-\begin{minipage}[t]{0.25\textwidth}
+\begin{minipage}[t]{0.23\textwidth}
     \centering
     \vspace{0pt} % Căn lề đỉnh cùng với văn bản
     \includegraphics[width=\linewidth]{hình 12.png}
@@ -1177,6 +1233,7 @@ Chi tiết thực hiện: Lựa chọn công thức phù hợp dựa trên hai b
 
 (Lưu ý: Nếu vật không đổi chiều chuyển động trên $[t_1, t_2]$, ta có thể bỏ dấu giá trị tuyệt đối: $S = \int_{t_1}^{t_2} v(t) \, dt)$.
 \end{itemize}
+
 \textbf{Bước 3: Thực hiện thuật toán tính toán (Computation)}
 
 Nhiệm vụ: Giải phương trình tích phân đã thiết lập bằng các phương pháp giải tích.
@@ -1202,13 +1259,27 @@ Chi tiết thực hiện:
 \noindent\textbf{bài 1:} Một ô tô bắt đầu chuyển động thẳng đều với vận tốc $v_0$, sau $6$ giây thì gặp chướng ngại vật nên ô tô đi chậm dần với vận tốc $v(t) = -2,5t + a \text{ (m/s)}$, $(t \ge 6)$ cho đến khi dừng hẳn. Biết rằng kể từ lúc bắt đầu chuyển động đến lúc dừng hẳn thì ô tô đi được quãng đường là $80\text{ (m)}$. Giá trị của $v_0$ bằng bao nhiêu $(\text{m/s})$?
 
 \begin{center}
-    \textbf{Lời giải:}
+    \textbf{Ý tưởng giải:}
+\end{center} 
+
+Vì vận tốc không thể thay đổi đột ngột tại giây thứ 6, nên vận tốc đi đều ($v_{0}$) phải bằng vận tốc lúc vừa bắt đầu phanh ($v(6)$) để liên kết hai chặng với nhau.
+
+Vì đề bài có dữ kiện "dừng hẳn", nên ta phải cho hàm vận tốc bằng 0 ($v(t) = 0$) để tìm ra thời điểm xe dừng (đây chính là cận trên của tích phân).
+
+Vì xe chuyển động qua hai giai đoạn khác nhau (đi đều và phanh gấp), nên bắt buộc phải chia quãng đường làm hai phần độc lập rồi cộng lại.
+
+Vì bản chất quãng đường là tích phân của vận tốc, nên ta dùng công thức $S = \int v(t) dt$ cho chặng phanh để tính ra số mét di chuyển chính xác theo biến số thời gian.
+
+Vì đề bài đã cho tổng quãng đường bằng 80m, nên ta cộng quãng đường hai chặng lại để lập phương trình và giải ra vận tốc $v_{0}$ ban đầu.
+
+\begin{center}
+    \textbf{Các bước giải:}
 \end{center} 
 
 -Bước 1. Liên hệ hằng số $a$ với $v_0$
 \begin{itemize}
     \item Xe chuyển động thẳng đều với vận tốc $v_0$ trong $6$ giây đầu rồi bắt đầu chuyển động chậm dần với $v(t) = -2,5t + a$, nên tại thời điểm $t = 6$ thì vận tốc của xe là:
-    $$v(6) = v_0 \iff -15 + a = v_0 \iff a = v_0 + 15$$
+    $v(6) = v_0 \iff -15 + a = v_0 \iff a = v_0 + 15$
 \end{itemize}
 
 -Bước 2. Tính thời điểm dừng hẳn
@@ -1233,7 +1304,10 @@ Chi tiết thực hiện:
     \vspace{0pt} % Căn lề đỉnh cùng với văn bản
     \includegraphics[width=\linewidth]{hình 15.png}
 \end{minipage}
-\textbf{Phân tích sư phạm bài toán:}
+\begin{center}
+    \textbf{Phân tích sư phạm bài toán:}
+\end{center}
+
 \begin{itemize}
     \item \textbf{Ưu điểm:} 
     \begin{itemize}
@@ -1255,21 +1329,38 @@ Chi tiết thực hiện:
         \item Hiểu sai cụm từ "bắt đầu chuyển động": Mặc định vận tốc ban đầu tại $t=0$ bằng $0$. Quên rằng xe "bắt đầu chuyển động thẳng đều với vận tốc $v_{0}$".
     \end{itemize}
 \end{itemize}
-\noindent\textbf{bài 2:}Một ô tô bắt đầu chuyển động nhanh dần đều với vận tốc $v = 7t\text{ (m/s)}$. Đi được $5$ giây, người lái xe phát hiện chướng ngại vật và phanh gấp, ô tô tiếp tục chuyển động chậm dần đều với gia tốc $a = -70\text{ (m/s}^2\text{)}$. Tính quãng đường đi được của ô tô từ lúc bắt đầu chuyển động cho đến khi dừng hẳn.
+\noindent\textbf{bài 2:} Một ô tô bắt đầu chuyển động nhanh dần đều với vận tốc $v = 7t\text{ (m/s)}$. Đi được $5$ giây, người lái xe phát hiện chướng ngại vật và phanh gấp, ô tô tiếp tục chuyển động chậm dần đều với gia tốc $a = -70\text{ (m/s}^2\text{)}$. Tính quãng đường đi được của ô tô từ lúc bắt đầu chuyển động cho đến khi dừng hẳn.
 \begin{center}
-    \textbf{Lời giải:}
+    \textbf{Ý tưởng giải:}
 \end{center} 
-\noindent Chọn mốc thời gian là lúc bắt đầu chuyển động.
 
-\noindent Giai đoạn 1, ô tô chuyển động nhanh dần đều với $v = 7t$ trong $5$ giây.
+Vì ô tô thay đổi từ nhanh dần sang phanh gấp: Quá trình di chuyển bị chia làm hai giai đoạn với hàm vận tốc khác nhau, bắt buộc phải tính riêng quãng đường từng chặng.
 
-\noindent Giai đoạn 2, ô tô chuyển động chậm dần đều với gia tốc $a = -70$, tại thời điểm bắt đầu giai đoạn hai lúc $t = 5$ thì $v = 35$, do đó vận tốc ở giai đoạn 2 là $v_2 = -70t + C$ với $v_2(5) = 35$ nên $C = 385$. Vậy $v_2 = -70t + 385$.
+Vì quãng đường là tích phân của vận tốc: Ta dùng công thức tích phân quét từ giây 0 đến giây 5 để tìm chính xác số mét xe chạy ở chặng đầu tiên.
 
-\noindent Ô tô dừng hẳn khi $v_2 = 0 \iff t = 5,5$. Do đó $v(t) = \begin{cases} 7t & \text{khi } 0 \le t \le 5 \\ -70t + 385 & \text{khi } 5 \le t \le 5,5. \end{cases}$
+Vì xe phanh với gia tốc \(-70\text{ m/s}^2\): Ta phải lập hàm vận tốc mới cho chặng sau dựa trên vận tốc nền (35 m/s) để mô tả đúng quá trình chậm dần đều.
 
-\noindent Quãng đường ô tô đi được từ khi bắt đầu tới lúc dừng hẳn là:
+Vì có dữ kiện "dừng hẳn": Phải cho hàm vận tốc chặng sau bằng 0 để tìm ra thời điểm xe đứng yên, lấy đó làm cận trên cho tích phân.
+
+Vì cần biết đoạn đường trượt bánh: Ta tính tích phân chặng hai từ lúc phanh đến lúc dừng hẳn, rồi cộng với chặng đầu để ra tổng quãng đường.
+\begin{center}
+    \textbf{Các bước giải:}
+\end{center} 
+
+ Chọn mốc thời gian là lúc bắt đầu chuyển động.
+
+ Giai đoạn 1, ô tô chuyển động nhanh dần đều với $v = 7t$ trong $5$ giây.
+
+ Giai đoạn 2, ô tô chuyển động chậm dần đều với gia tốc $a = -70$, tại thời điểm bắt đầu giai đoạn hai lúc $t = 5$ thì $v = 35$, do đó vận tốc ở giai đoạn 2 là $v_2 = -70t + C$ với $v_2(5) = 35$ nên $C = 385$. Vậy $v_2 = -70t + 385$.
+
+Ô tô dừng hẳn khi $v_2 = 0 \iff t = 5,5$. Do đó $v(t) = \begin{cases} 7t & \text{khi } 0 \le t \le 5 \\ -70t + 385 & \text{khi } 5 \le t \le 5,5. \end{cases}$
+
+ Quãng đường ô tô đi được từ khi bắt đầu tới lúc dừng hẳn là:
 $$s = \int_0^5 7t \, dt + \int_5^{5,5} (-70t + 385) \, dt = \frac{175}{2} + \frac{35}{4} = \frac{385}{4} = 96,25\text{ (m).}$$
+\begin{center}
 \textbf{Phân tích sư phạm bài toán:}
+\end{center}
+
 \begin{itemize}
     \item \textbf{Ưu điểm:} 
     \begin{itemize}
@@ -1278,7 +1369,7 @@ $$s = \int_0^5 7t \, dt + \int_5^{5,5} (-70t + 385) \, dt = \frac{175}{2} + \fra
     \end{itemize}
     \item \textbf{Điểm khó:}
     \begin{itemize}
-        \item Xây dựng hàm vận tốc nhánh thứ hai: Đề bài chỉ cho gia tốc $a = -70 \text{ m/s}^2$ ở giai đoạn 2. Học sinh phải tự dùng nguyên hàm để suy ra $v_2(t) = -70t + C$, đồng thời sử dụng tính liên tục tại điểm nối thời gian $t = 5$ để tìm hằng số $C = 385$.
+        \item Xây dựng hàm vận tốc nhánh thứ hai: Đề bài chỉ cho gia tốc ở giai đoạn 2$a = -70 \text{ m/s}^2$. Học sinh phải tự dùng nguyên hàm để suy ra $v_2(t) = -70t + C$, đồng thời sử dụng tính liên tục tại điểm nối thời gian $t = 5$ để tìm hằng số $C = 385$.
         \item Xác định thời điểm dừng hẳn: Học sinh phải giải phương trình $v_2(t) = 0$ để tìm ra thời điểm xe dừng hoàn toàn ($t = 5,5$ giây) để làm cận trên cho tích phân.
     \end{itemize}
     \item \textbf{Lỗi dễ sai:}
@@ -1296,32 +1387,40 @@ $$s = \int_0^5 7t \, dt + \int_5^{5,5} (-70t + 385) \, dt = \frac{175}{2} + \fra
 \subsection{Phương pháp chung}
 
 \textbf{Bước 1: Xác định hàm số kinh tế}
-Nhận diện hàm biên đề bài cho trước.Xác định hàm cung hoặc hàm cầu thị trường.Xác định đại lượng kinh tế cần tìm kiếm.
+Nhận diện hàm biên đề bài cho trước. Xác định hàm cung hoặc hàm cầu thị trường. Xác định đại lượng kinh tế cần tìm kiếm.
 
 \textbf{Bước 2: Tìm cận của tích phân}
-Xác định khoảng sản lượng đề bài yêu cầu.Xác định khoảng thời gian đề bài yêu cầu.Giải phương trình cân bằng cung cầu nếu cần.Tìm tọa độ điểm cân bằng thị trường $(q_0, P_0)$.
+Xác định khoảng sản lượng đề bài yêu cầu. Xác định khoảng thời gian đề bài yêu cầu. Giải phương trình cân bằng cung cầu nếu cần. Tìm tọa độ điểm cân bằng thị trường $(q_0, P_0)$.
 
-\textit{Bước 3: Thiết lập công thức tích phân}
-Áp dụng công thức tính tổng từ hàm biên.Lập tích phân thặng dư tiêu dùng $(CS)$.Lập tích phân thặng dư sản xuất $(PS)$.
+\textbf{Bước 3: Thiết lập công thức tích phân}
+Áp dụng công thức tính tổng từ hàm biên. Lập tích phân thặng dư tiêu dùng $(CS)$. Lập tích phân thặng dư sản xuất $(PS)$.
 
 \textbf{Bước 4: Tính toán và kết luận kinh tế}
-Tìm nguyên hàm của hàm số đã lập.Thay các cận vào biểu thức nguyên hàm.Tính toán ra kết quả số cuối cùng.Kết luận ý nghĩa kinh tế kèm đơn vị.
+Tìm nguyên hàm của hàm số đã lập. Thay các cận vào biểu thức nguyên hàm. Tính toán ra kết quả số cuối cùng.Kết luận ý nghĩa kinh tế kèm đơn vị.
 \subsection{Bài tập ví dụ}
 \noindent\textbf{bài 1:} Giả sử chi phí cận biên tại mỗi mức sản lượng $Q$ là $MC = 10 - 30Q + 9Q^2$. Chi phí cố định là $FC = 40$. Hãy tìm hàm tổng chi phí và chi phí biến đổi.
 \begin{center}
-    \textbf{Lời giải:}
+    \textbf{Ý tưởng giải:}
 \end{center}
-\noindent Chi phí cận biên $MC$ là đạo hàm của hàm tổng chi phí $TC(Q)$, có ngĩa là $MC(Q) = TC'(Q)$.
 
-\noindent Do đó, hàm tổng chi phí là nguyên hàm của hàm chi phí cận biên:
+Vì chi phí cận biên $MC$ là đạo hàm của chi phí biến đổi, nên ta phải làm phép tính ngược lại là lấy nguyên hàm của $MC$ để khôi phục lại hàm $VC$.
+
+Vì chi phí biến đổi phụ thuộc hoàn toàn vào sản lượng, nên khi sản lượng bằng 0 thì chi phí biến đổi cũng bắt buộc bằng 0, giúp ta triệt tiêu được hệ số tự do $C$ khi lấy nguyên hàm.
+
+Vì tổng chi phí $TC$ cấu thành từ hai bộ phận là chi phí cố định và chi phí biến đổi, nên sau khi tìm được $VC$, ta chỉ cần cộng thêm phần chi phí bất biến $FC = 40$ là ra được toàn bộ tổng chi phí của doanh nghiệp.
+\begin{center}
+    \textbf{Các bước giải:}
+\end{center}
+
+Chi phí cận biên $MC$ là đạo hàm của hàm tổng chi phí $TC(Q)$, có ngĩa là $MC(Q) = TC'(Q)$.
+
+Do đó, hàm tổng chi phí là nguyên hàm của hàm chi phí cận biên:
 \[
 TC(Q) = \int MC(Q) \, \mathrm{d}Q = \int (10 - 30Q + 9Q^2) \, \mathrm{d}Q = 10Q - 15Q^2 + 3Q^3 + C.
 \]
 
-\noindent Theo bài ra, chi phí cố định $FC = 40$, tương ứng với chi phí khi không sản xuất ($Q = 0$):
-$
-TC(0) = C = 40 \Rightarrow C = 40.
-$
+ Theo bài ra, chi phí cố định $FC = 40$, tương ứng với chi phí khi không sản xuất ($Q = 0$):
+$TC(0) = C = 40 \Rightarrow C = 40.$
 
 \noindent Vậy:
 \begin{itemize}
@@ -1339,7 +1438,7 @@ $
     \item \textbf{Ưu điểm:} 
     \begin{itemize}
         \item Tính liên môn cao: Bài toán giúp gắn kết kiến thức Toán học (tìm nguyên hàm) với Kinh tế học (chi phí cận biên $MC$, chi phí cố định $FC$, chi phí biến đổi $VC$, tổng chi phí $TC$).
-        \item Phát triển tư duy ngược: Thay vì tính đạo hàm để tìm hàm cận biên như thông thường, HS phải tư duy ngược lại (tìm nguyên hàm) để khôi phục hàm tổng.
+        \item Phát triển tư duy ngược: HS phải tư duy ngược lại (tìm nguyên hàm) để khôi phục hàm tổng.
         \item Minh họa trực quan cho hằng số $C$: Trong toán thuần túy, hằng số tự do $C$ khi tính nguyên hàm thường trừu tượng. Ở bài này, $C$ có ý nghĩa kinh tế rõ ràng: chính là chi phí cố định ($FC$) khi sản lượng $Q = 0$.
     \end{itemize}
     \item \textbf{Điểm khó:}
@@ -1349,16 +1448,28 @@ $
     \end{itemize}
     \item \textbf{Lỗi dễ sai:}
     \begin{itemize}
-        \item Quên hằng số $C$. khi tìm nguyên hàm: Đây là lỗi phổ biến nhất. HS thường viết ngay $TC = 10Q - 15Q^2 + 3Q^3$ mà quên cộng $C$., dẫn đến việc bỏ qua dữ kiện $FC = 40$.
+        \item Quên hằng số $C$. khi tìm nguyên hàm: Đây là lỗi phổ biến nhất. Học sinh thường viết ngay $TC = 10Q - 15Q^2 + 3Q^3$ mà quên cộng $C$, dẫn đến việc bỏ qua dữ kiện $FC = 40$.
         \item Nhầm lẫn giữa $TC$ và $VC$:
-        Nhiều HS đồng nhất $TC$ và $VC$ làm một.Hoặc sau khi tìm ra hàm có dạng $10Q - 15Q^2 + 3Q^3 + 40$, HS lại kết luận đó là $VC$ thay vì $TC$.
-        \item Sai sót khi tính toán hệ số: Khi lấy nguyên hàm của $-30Q$, HS dễ tính nhầm thành $-30Q^{2}$ thay vì $-15Q^{2}$.
+        Nhiều học sinh đồng nhất $TC$ và $VC$ làm một.Hoặc sau khi tìm ra hàm có dạng $(10Q - 15Q^2 + 3Q^3 + 40)$, học sinh lại kết luận đó là $VC$ thay vì $TC$.
+        \item Sai sót khi tính toán hệ số: Khi lấy nguyên hàm của $-30Q$, học sinh dễ tính nhầm thành $-30Q^{2}$ thay vì $-15Q^{2}$.
     \end{itemize}
     \end{itemize}
 \noindent\textbf{Bài 2:} Cho hàm cung và hàm cầu đối với một loại sản phẩm: $Q_s = 2P - 25$, $Q_d = \sqrt{40 - P}$. Tính thặng dư tiêu dùng và thặng dư sản xuất tại trạng thái cân bằng.
 \begin{center}
-    \textbf{Lời giải:}
+    \textbf{Ý tưởng giải:}
 \end{center}
+
+Vì thặng dư chỉ phát sinh khi có giao dịch, nên bắt buộc phải tìm điểm cân bằng thị trường $(P_0; Q_0)$ để làm mốc tính toán.
+
+Vì công thức chuẩn của thặng dư tính theo sản lượng $Q$, nên cần biến đổi các hàm số về dạng giá ngược $P(Q)$.
+
+Vì thặng dư tiêu dùng $CS$ là phần lợi ích nằm dưới đường cầu và trên mức giá $P_{0}$, nên ta tính tích phân của hiệu số $(P_d - P_0)$.
+
+Vì thặng dư sản xuất (PS) là phần lợi nhuận nằm trên đường cung và dưới mức giá $P_{0}$, nên ta tính tích phân của hiệu số $(P_0 - P_s)$.
+\begin{center}
+    \textbf{Các bước giải:}
+\end{center}
+
 -Bước 1: Tìm trạng thái cân bằng thị trường ($P_0, Q_0$):
     
     Phương trình cân bằng thị trường $Q_s = Q_d$:
@@ -1368,6 +1479,7 @@ $
     \[
     \Leftrightarrow (2P - 25)^2 = 40 - P \Leftrightarrow 4P^2 - 99P + 585 = 0 \Rightarrow \left[ \begin{array}{l} P = 15 \quad (\text{Thỏa mãn}) \\ P = 9{,}75 \quad (\text{Loại}) \end{array} \right.
     \]
+    
     Thay $P_0 = 15$ vào hàm $Q_s$ ta thu được $Q_0 = 2(15) - 25 = 5$.
 
     -Bước 2: Biểu diễn giá $P$ theo sản lượng $Q$:
@@ -1387,13 +1499,16 @@ $
     PS &= \int_0^{Q_0} [P_0 - P_s(Q)] \, \mathrm{d}Q = \int_0^5 \left( 15 - \frac{Q + 25}{2} \right) \, \mathrm{d}Q = \int_0^5 \left( \frac{5 - Q}{2} \right) \, \mathrm{d}Q\\[0.8em]
     PS &= \left. \left( \frac{5}{2}Q - \frac{Q^2}{4} \right) \right|_0^5 = \frac{25}{2} - \frac{25}{4} = \frac{25}{4} = 6{,}25
     \end{align*}
+    \begin{center}
 \textbf{Phân tích sư phạm bài toán:}
+\end{center}
+
 \begin{itemize}
     \item \textbf{Ưu điểm:} 
     \begin{itemize}
-    \item Nâng cao năng lực mô hình hóa toán học: Bài toán đòi hỏi HS không chỉ nhớ công thức mà phải hiểu rõ ý nghĩa hình học của tích phân (diện tích hình phẳng) để tự xác định các cận tích phân ($P_{min}, P_{max}$) dựa trên điều kiện kinh tế thực tế.
-    \item Phân hóa học sinh tốt: Việc đưa hàm cầu dạng căn thức ($Q_d = \sqrt{40-P}$) giúp phân hóa rõ rệt so với các bài toán bậc nhất thông thường. Nó thử thách khả năng giải phương trình vô tỷ và tính tích phân bằng phương pháp đổi biến số của HS.
-    \item Phát triển tư duy đa chiều: Bài toán có thể giải theo hai cách (tích phân theo biến giá $P$ hoặc biến sản lượng $Q$). Điều này giúp giáo viên có thể khuyến khích HS tìm tòi nhiều lời giải khác nhau để tối ưu hóa thời gian làm bài.
+    \item Nâng cao năng lực mô hình hóa toán học: Bài toán đòi hỏi học sinh không chỉ nhớ công thức mà phải hiểu rõ ý nghĩa hình học của tích phân (diện tích hình phẳng) để tự xác định các cận tích phân ($P_{min}, P_{max}$) dựa trên điều kiện kinh tế thực tế.
+    \item Phân hóa học sinh tốt: Đưa hàm cầu dạng căn thức ($Q_d = \sqrt{40-P}$) giúp phân hóa rõ rệt so với các bài toán bậc nhất thông thường. Nó thử thách khả năng giải phương trình vô tỷ và tính tích phân bằng phương pháp đổi biến số của học sinh.
+    \item Phát triển tư duy đa chiều: Bài toán có thể giải theo hai cách (tích phân theo biến giá $P$ hoặc biến sản lượng $Q$). Điều này giúp giáo viên có thể khuyến khích học sinh tìm tòi nhiều lời giải khác nhau để tối ưu hóa thời gian làm bài.
     \end{itemize}
     \item \textbf{Điểm khó:}
     \begin{itemize}
@@ -1405,12 +1520,12 @@ $
     \begin{itemize}
         \item Tính $CS = \int (2P - 25) dP$ và $PS = \int \sqrt{40-P} dP$.
         \item Sai cận tích phân:
-        
-        Khi tính $CS$, HS thường lấy cận từ $0$ đến $15$ (bê nguyên từ gốc tọa độ) thay vì từ giá cân bằng $15$ đến giá tối đa $40$
-        
-        Khi tính $PS$, HS thường lấy cận từ $0$ đến $15$ mà quên mất rằng tại $P < 12.5$ thì lượng cung đã bị âm (vô lý trong kinh tế).
-        \item Quên điều kiện khi giải phương trình vô tỷ: Khi bình phương hai vế $2P - 25 = \sqrt{40-P}$, HS ra được 2 nghiệm $15$  và  $9.75$  nhưng lại lấy cả hai hoặc không biết loại nghiệm nào do thiếu điều kiện $P \ge 12.5$.
-        \item Sai dấu khi đổi biến số: Khi tính $\int_{15}^{40} \sqrt{40-P} dP$, HS thường quên dấu trừ của vi phân ($du = -dP$) dẫn đến kết quả bị âm ($-83.33$), sau đó chữa cháy bằng cách... lấy trị tuyệt đối một cách vô căn cứ.
+        \begin{itemize}
+            \item Khi tính $CS$, học sinh thường lấy cận từ $0$ đến $15$ (bê nguyên từ gốc tọa độ) thay vì từ giá cân bằng $15$ đến giá tối đa $40$.
+            \item  Khi tính $PS$, học sinh thường lấy cận từ $0$ đến $15$ mà quên mất rằng tại $P < 12.5$ thì lượng cung đã bị âm (vô lý trong kinh tế).
+        \end{itemize}
+        \item Quên điều kiện khi giải phương trình vô tỷ: Khi bình phương hai vế $2P - 25 = \sqrt{40-P}$, học sinh ra được 2 nghiệm $15$  và  $9.75$  nhưng lại lấy cả hai hoặc không biết loại nghiệm nào do thiếu điều kiện $P \ge 12.5$.
+        \item Sai dấu khi đổi biến số: Khi tính $\int_{15}^{40} \sqrt{40-P} dP$, học sinh thường quên dấu trừ của vi phân ($du = -dP$) dẫn đến kết quả bị âm ($-83.33$), sau đó chữa cháy bằng cách... lấy trị tuyệt đối một cách vô căn cứ.
     \end{itemize}
 \end{itemize}
 \subsection{Bài tập luyện tập}
@@ -1418,17 +1533,32 @@ $
 
 \noindent\textbf{Bài 2:} Cho hàm lợi nhuận cận biên theo sản lượng của một hãng sản xuất là $MPr(Q) = -5Q + 500$. Biết rằng nếu bán được 50 sản phẩm thì hãng sẽ bị lỗ 13500 đơn vị tiền. Tìm hàm lợi nhuận của hãng.
 
+ \chapter*{KẾT LUẬN}
+ Tiểu luận này tập trung tìm hiểu và vận dụng tích phân trong việc giải quyết một số bài toán thực tế. Trước hết, nội dung hệ thống lại những kiến thức cơ bản về nguyên hàm, tích phân, các phương pháp tính và các tính chất nền tảng làm cơ sở cho việc nghiên cứu các ứng dụng tiếp theo.
+
+Trên nền tảng đó, tiểu luận trình bày các dạng toán thực tế liên quan đến việc tính toán các đại lượng hình học trong không gian như diện tích hình phẳng, thể tích khối tròn xoay và độ dài đường cong của các mô hình thực tế. Bên cạnh đó, tích phân được vận dụng để giải quyết các bài toán trong vật lý và Cơ học như tính công thực hiện, quãng đường, vận tốc trong chuyển động biến đổi, cũng như các bài toán về giá trị thặng dư hay các chi phí trong kinh tế.
+
+Các ví dụ trong tiểu luận được lựa chọn từ những tình huống gần gũi với thực tiễn như tính diện tích, thể tích vật thể hình học phức tạp (bể nước, chi tiết máy, máng trượt), chuyển động của phương tiện và sự biến thiên của các đại lượng theo thời gian. Đối với mỗi ví dụ, việc trình bày ý tưởng mô hình hóa trước khi đi vào chi tiết giúp làm rõ quá trình chuyển đổi từ tình huống thực tế sang bài toán tích phân, sau đó kết luận sư phạm chỉ ra ưu điểm, điểm khó, lỗi dễ sai của học sinh giúp nâng cao quá trình dạy và học đồng thời khẳng định vai trò của tích phân như một công cụ tính toán liên tục.
+
+Thông qua việc thực hiện đề tài, nội dung giúp củng cố kiến thức về giải tích, đồng thời rèn luyện khả năng phân tích, mô hình hóa toán học và trình bày lời giải cho các bài toán gắn với thực tiễn. Qua đó cho thấy tích phân không chỉ là lý thuyết thuần túy mà là công cụ mạnh mẽ để đo lường và dự báo các đại lượng biến thiên liên tục trong nhiều lĩnh vực.
+
+Do thời gian thực hiện và kiến thức còn hạn chế, tiểu luận khó tránh khỏi những thiếu sót. Rất mong nhận được những ý kiến đóng góp của quý thầy cô và các bạn để nội dung tiểu luận được hoàn thiện hơn.
     \chapter*{\underline{TÀI LIỆU THAM KHẢO}}
     \addcontentsline{toc}{chapter}{TÀI LIỆU THAM KHẢO}
      [1]Nguyễn Minh Hà (Tổng Chủ biên), Bùi Văn Bình, Nguyễn Duy Tấn, Phạm Thị Thủy (2024), Toán 12 (Tập 2 - Bộ sách Kết nối tri thức với cuộc sống), Nhà xuất bản Giáo dục Việt Nam.
      
-    [2] Lê Bá Bảo (Năm xuất bản). Ngân hàng câu hỏi: Tích phân - Ứng dụng tích phân tính diện tích hình phẳng (Hướng dẫn giải các dạng toán cơ bản chuyên đề ứng dụng tích phân trong hình học môn Toán lớp 12), Trường THPT Đăng Huy Trứ.
+     [2] Đỗ Đức Thái (Tổng Chủ biên), Phạm Xuân Chung, Nguyễn Sơn Hà, Nguyễn Thị Phương Loan, Phạm Sỹ Nam, Phạm Minh Phương (2023), Toán 12 (Tập 2 - Bộ sách Cánh Diều), Nhà xuất bản Đại học Sư phạm.
+     
+    [3] Trần Nam Dũng (Tổng Chủ biên), Trần Đức Huyên, Nguyễn Thành Anh (Chủ biên), Vũ Như Thư Hương, Ngô Hoàng Long, Phạm Hoàng Quân, Phạm Thị Thu Thủy (2024), Toán 12 (Tập 2 - Bộ sách Chân trời sáng tạo), Nhà xuất bản Giáo dục Việt Nam.
     
-    [3]Lê Minh Tâm (2023-2024), Chương 03: Tích phân - Ứng dụng, tổng hợp lý thuyết chung và hướng dẫn giải các dạng bài tập chuyên đề nguyên hàm, tích phân và ứng dụng.
+    [4] Cung Thế Anh, Trần Văn Tấn, Đặng Hùng Thắng (Đồng Chủ biên), Trần Mạnh Cường, Lê Văn Cường, Nguyễn Đạt Đăng, Lê Văn Hiện, Trần Đình Kế, Phạm Anh Minh, Nguyễn Thị Kim Sơn (2024), Toán 12 (Tập 2 - Bộ sách Kết nối tri thức với cuộc sống), Nhà xuất bản Giáo dục Việt Nam.
+    
+    [5] Lê Bá Bảo (Năm xuất bản). Ngân hàng câu hỏi: Tích phân - Ứng dụng tích phân tính diện tích hình phẳng (Hướng dẫn giải các dạng toán cơ bản chuyên đề ứng dụng tích phân trong hình học môn Toán lớp 12), Trường THPT Đăng Huy Trứ.
+    
+    [6]Lê Minh Tâm (2023 -2024), Chương 03: Tích phân - Ứng dụng, tổng hợp lý thuyết chung và hướng dẫn giải các dạng bài tập chuyên đề nguyên hàm, tích phân và ứng dụng.
 
-    [4]Đặng Việt Đông (2025), Toán thực tế nguyên hàm, tích phân và ứng dụng, Tài liệu đăng trên TOANMATH.com
+    [7]Đặng Việt Đông (2025), Toán thực tế nguyên hàm, tích phân và ứng dụng, tài liệu đăng trên TOANMATH.com
  
 \end{document}
 
     
-
