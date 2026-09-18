@@ -25,25 +25,40 @@ Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi nhữ
 🌻Trong Kinh tế học: tính giá trị thặng dư, hàm tổng từ hàm cận biên...
 ## 🌷 NỘI DUNG 
 ### Chương 1:  Kiến thức chuẩn bị
-🌹 Mở đầu về nguyên hàm
+🌹 Mở đầu về nguyên hàm: Định nghĩa nguyên hàm, họ nguyên hàm, vi phân và các tính chất cơ bản.
+ 
+🌹Nguyên hàm của một số hàm số sơ cấp: Công thức nguyên hàm của hàm số lũy thừa, hàm số $f(x)=\frac{1}{x}$, hàm số lượng giác, hàm số mũ và bổ đề nguyên hàm dạng $f(ax+b)$.   
 
-🌹Nguyên hàm của một số hàm số sơ cấp 
-
-🌹Mở đầu về tích phân 
+🌹Mở đầu về tích phân: Bài toán diện tích hình thang cong, phương pháp tính tích phân cơ bản (biến đổi trực tiếp, đổi biến số, tích phân từng phần), định nghĩa tích phân Riemann, Định lý Newton-Leibniz, các tính chất và tích phân của hàm số sơ cấp/hàm hợp.
 ### Chương 2: Ứng dụng của tích phân trong thực tế
-🌹Hình học (tính diện tích hình phẳng, thể tích khối tròn xoay)
+🌹Hình học:  
 
-🌹Vật lý và Cơ học ( Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...)
+🌻Tính diện tích hình phẳng (giới hạn bởi 1 hoặc nhiều đường cong). 
 
-🌹Kinh tế học (tính giá trịthặng dư, hàm tổng từ hàm cận biên)
+🌻Tính thể tích vật thể qua mặt cắt $S(x)$ và thể tích khối tròn xoay. 
+
+🌻Công thức tính thể tích của các hình khối đặc biệt: chỏm cầu, chảo parabol, khối chóp cụt, khối nón cụt.   
+
+🌹Vật lý và Cơ học 
+
+🌻Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
+
+🌻Mối liên hệ giữa gia tốc $a(t)$, vận tốc $v(t)$ và quãng đường/độ dịch chuyển $s(t)$
+
+🌹Kinh tế học
+🌻Tìm hàm tổng thể (tổng chi phí $TC$, tổng doanh thu $TR$) từ hàm cận biên ($MC$, $MR$). 
+
+🌻Tính tổng tích lũy (quỹ vốn) từ tốc độ thay đổi theo thời gian.  
+
+🌻Tính Thặng dư tiêu dùng ($CS$) và Thặng dư sản xuất ($PS$).
 ### Chương 3: Bài tập minh họa
 Mỗi dạng bài gồm:
 
 🌹Phương pháp giải chung.
 
-🌹Ví dụ minh hoạ có lời giải chi tiết và kết luận sư phạm sâu sắc thông qua việc chỉ ra ưu điểm, những điểm khó, các sai lầm dễ mắc phải của học sinh, từ đó giúp nâng cao hiệu quả giảng dạy và học tập chủ đề này.
+🌹Ví dụ minh hoạ có ý tưởng, các bước giải chi tiết và kết luận sư phạm sâu sắc thông qua việc chỉ ra ưu điểm, những điểm khó, các sai lầm dễ mắc phải của học sinh, từ đó giúp nâng cao hiệu quả giảng dạy và học tập chủ đề này.
 
-🌹Kèm theo danh mục bài tập tự luyện phong phú.
+🌹Kèm theo danh mục bài tập tự luyện.
 ## 🌷 KẾ HOẠCH THỰC HIỆN
 🪷Tuần 1: Thu thập tài liệu tham khảo, tiến hành thực hiện phần mở đầu, vạch ý tưởng các chương 1, 2, 3.
 
@@ -51,7 +66,7 @@ Mỗi dạng bài gồm:
 ### Định dạng đầu ra gồm:
   🪷File mã nguồn: tichphan.tex
   
-  🪷File PDF hoàn chỉnh (48 trang).
+  🪷File PDF hoàn chỉnh (50 trang).
   
   🪷Các file tài liệu tham khảo kèm theo.
   
