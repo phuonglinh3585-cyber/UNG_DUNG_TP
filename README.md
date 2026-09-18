@@ -6,11 +6,11 @@ Trong chương trình giáo dục phổ thông hiện nay, Toán học là môn 
 
 Do đó, trong 2 tuần, đề tài tập trung trình bày 3 nội dung chính sau:
 
-  🌻Chương 1. Kiến thức chuẩn bị: Hệ thống hóa các định nghĩa, tính chất và định lý cơ bản về nguyên hàm và tích phân.
+  - 🌻Chương 1. Kiến thức chuẩn bị: Hệ thống hóa các định nghĩa, tính chất và định lý cơ bản về nguyên hàm và tích phân.
   
-  🌻Chương 2. Ứng dụng của tích phân trong thực tế: Trình bày các dạng toán ứng dụng trong Hình học, Vật lý – Cơ học và Kinh tế học.
+  - 🌻Chương 2. Ứng dụng của tích phân trong thực tế: Trình bày các dạng toán ứng dụng trong Hình học, Vật lý – Cơ học và Kinh tế học.
   
-  🌻Chương 3. Bài tập minh họa: Xây dựng hệ thống bài tập có lời giải chi tiết, bài tập tự luyện và đưa ra các nhận xét sư phạm về khó khăn, sai lầm thường gặp của học sinh.
+  - 🌻Chương 3. Bài tập minh họa: Xây dựng hệ thống bài tập có lời giải chi tiết, bài tập tự luyện và đưa ra các nhận xét sư phạm về khó khăn, sai lầm thường gặp của học sinh.
   
 Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được ý kiến đóng góp từ quý thầy cô và các bạn. Tuy đã cố gắng trong quá trình thực hiện nhưng do kiến thức và kinh nghiệm còn hạn chế nên tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được những ý kiến đóng góp của quý thầy cô và các bạn để nội dung tiểu luận được hoàn thiện hơn.
 
