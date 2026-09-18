@@ -2,7 +2,25 @@
 ## 🌷 THÔNG TIN CHUNG 
 **Chủ đề:** Ứng dụng của tích phân trong các bài toán thực tế.
 
-Trong chương trình giáo dục phổ thông hiện nay, Toán học là môn học nghiên cứu về các số, cấu trúc không gian và các phép biến đổi, là nền tảng cho các ngành khoa học tự nhiên. Trong đó, Giải tích là một phần quan trọng, liên quan đến các khái niệm như: hàm liên tục, giới hạn và các lý thuyết liên quan như đạo hàm, phép lấy tổng, tích phân, đo lường, chuỗi và các hàm giải tích. Giải tích không chỉ mang tính lý thuyết mà còn có nhiều ứng dụng sâu rộng trong thực tiễn và trong các ngành khoa học tự nhiên như tính diện tích hình phẳng, tính thể tích của vật thể có hình dạng phức tạp, tính quãng đường chuyển động của vật, tính tổng chi phí, doanh thu,... và nhiều ứng dụng khác. Tuy nhiên, thực tế cho thấy phần lớn học sinh gặp nhiều khó khăn khi tiếp cận với Giải tích, đặc biệt là ở phần Nguyên hàm - Tích phân và các bài toán thực tế có liên quan đến nội dung này. Việc học tích phân trong sách giáo khoa Giải tích 12 hiện nay chủ yếu tập trung vào các dạng toán mang tính kỹ thuật, công thức, thiếu đi sự liên hệ với ứng dụng thực tế, dẫn đến việc học sinh tiếp thu kiến thức một cách máy móc và khô khan. Xuất phát từ thực tiễn đó, em chọn đề tài:“Ứng dụng tích phân vào các bài toán thực tế” làm đề tài nghiên cứu nhằm giúp học sinh thấy được tích phân rất gần gũi với cuộc sống xung quanh chúng ta và việc học tích phân không chỉ phục vụ thi cử mà còn là công cụ hữu ích để giúp các em giải quyết những vấn đề và tình huống trong thực tế.
+**Lí do chọn đề tài:** Trong chương trình giáo dục phổ thông hiện nay, Toán học là môn học nghiên cứu về các số, cấu trúc không gian và các phép biến đổi, là nền tảng cho các ngành khoa học tự nhiên. Trong đó, Giải tích là một phần quan trọng, liên quan đến các khái niệm như: hàm liên tục, giới hạn và các lý thuyết liên quan như đạo hàm, phép lấy tổng, tích phân, đo lường, chuỗi và các hàm giải tích. Giải tích không chỉ mang tính lý thuyết mà còn có nhiều ứng dụng sâu rộng trong thực tiễn và trong các ngành khoa học tự nhiên như tính diện tích hình phẳng, tính thể tích của vật thể có hình dạng phức tạp, tính quãng đường chuyển động của vật, tính tổng chi phí, doanh thu,... và nhiều ứng dụng khác. Tuy nhiên, thực tế cho thấy phần lớn học sinh gặp nhiều khó khăn khi tiếp cận với Giải tích, đặc biệt là ở phần Nguyên hàm - Tích phân và các bài toán thực tế có liên quan đến nội dung này. Việc học tích phân trong sách giáo khoa Giải tích 12 hiện nay chủ yếu tập trung vào các dạng toán mang tính kỹ thuật, công thức, thiếu đi sự liên hệ với ứng dụng thực tế, dẫn đến việc học sinh tiếp thu kiến thức một cách máy móc và khô khan. Xuất phát từ thực tiễn đó, em chọn đề tài:“Ứng dụng tích phân vào các bài toán thực tế” làm đề tài nghiên cứu nhằm giúp học sinh thấy được tích phân rất gần gũi với cuộc sống xung quanh chúng ta và việc học tích phân không chỉ phục vụ thi cử mà còn là công cụ hữu ích để giúp các em giải quyết những vấn đề và tình huống trong thực tế.
+
+**Mục tiêu nghiên cứu:**
+
+🌻Giúp học sinh áp dụng được kiến thức tích phân để giải quyết các bài toán thực tế.
+
+🌻Tìm kiếm, phân loại và giới thiệu một số dạng bài toán thực tế có ứng dụng tích phân, tiêu biểu như: tính diện tích hình phẳng, thể tích vật thể, tính quãng đường – vận tốc…
+
+🌻Khảo sát các khó khăn, sai lầm thường gặp của học sinh; từ đó đề xuất phương pháp hướng dẫn cụ thể giúp học sinh vượt qua các rào cản tâm lý và kỹ năng.
+
+**Ý nghĩa nghiên cứu**
+
+🌻Áp dụng tích phân vào giải quyết các vấn đề thực tế giúp học sinh thấy tích phân có ý nghĩa từ đó tăng sự hứng thú, chủ động và tích cực hơn trong học tập.
+
+🌻Nghiên cứu giúp học sinh hiểu rõ hơn về tích phân không chỉ là một khái niệm trừu tượng, tính toán máy móc mà còn có nhiều ứng dụng quan trọng trong thực tế.
+
+🌻Thông qua việc giải các bài toán thực tế, học sinh được rèn luyện kỹ năng tư duy phân tích, tổng hợp,… từ đó giúp học sinh mở rộng tầm hiểu biết, phát triển năng lực sáng tạo, khả năng tư duy logic và kỹ năng giải quyết vấn đề.
+
+🌻Đề xuất ý tưởng giải, phương pháp giải phù hợp giúp học sinh khắc phục khó khăn trong việc vận dụng tích phân vào thực tế. Ngoài ra còn giúp các em học sinh chuẩn bị tốt kiến thức và kỹ năng làm bài cho kỳ thi tốt nghiệp THPT.
 
 Do đó, trong 2 tuần, đề tài tập trung trình bày 3 nội dung chính sau:
 
