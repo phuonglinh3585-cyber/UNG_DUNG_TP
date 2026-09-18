@@ -6,23 +6,23 @@ Trong chương trình giáo dục phổ thông hiện nay, Toán học là môn 
 
 Do đó, trong 2 tuần, đề tài tập trung trình bày 3 nội dung chính sau:
 
-#h(2em) 🌻Chương 1. Kiến thức chuẩn bị: Hệ thống hóa các định nghĩa, tính chất và định lý cơ bản về nguyên hàm và tích phân.
+🌻Chương 1. Kiến thức chuẩn bị: Hệ thống hóa các định nghĩa, tính chất và định lý cơ bản về nguyên hàm và tích phân.
   
-#h(2em) 🌻Chương 2. Ứng dụng của tích phân trong thực tế: Trình bày các dạng toán ứng dụng trong Hình học, Vật lý – Cơ học và Kinh tế học.
+🌻Chương 2. Ứng dụng của tích phân trong thực tế: Trình bày các dạng toán ứng dụng trong Hình học, Vật lý – Cơ học và Kinh tế học.
   
-#h(2em) 🌻Chương 3. Bài tập minh họa: Xây dựng hệ thống bài tập có lời giải chi tiết, bài tập tự luyện và đưa ra các nhận xét sư phạm về khó khăn, sai lầm thường gặp của học sinh.
+🌻Chương 3. Bài tập minh họa: Xây dựng hệ thống bài tập có lời giải chi tiết, bài tập tự luyện và đưa ra các nhận xét sư phạm về khó khăn, sai lầm thường gặp của học sinh.
   
 Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được ý kiến đóng góp từ quý thầy cô và các bạn. Tuy đã cố gắng trong quá trình thực hiện nhưng do kiến thức và kinh nghiệm còn hạn chế nên tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được những ý kiến đóng góp của quý thầy cô và các bạn để nội dung tiểu luận được hoàn thiện hơn.
-
+**Phần mở đầu**
 🌷Đối tượng nghiên cứu: Ứng dụng của tích phân trong các bài toán thực tế và phương pháp dạy học dạng toán này cho học sinh THPT.
 
 🌷Phạm vi nội dung: Tập trung vào 3 nhóm bài toán thực tế trọng tâm trong chương trình Giải tích 12:
 
-#h(2em) 🌻Trong Hình học: Các bài toán thực tế về tính diện tích hình phẳng, tính thể tích vật thể / khối tròn xoay.
+🌻Trong Hình học: Các bài toán thực tế về tính diện tích hình phẳng, tính thể tích vật thể / khối tròn xoay.
 
-#h(2em) 🌻Trong Vật lý và Cơ học: Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
+🌻Trong Vật lý và Cơ học: Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
 
-#h(2em) 🌻Trong Kinh tế học: tính giá trị thặng dư, hàm tổng từ hàm cận biên...
+🌻Trong Kinh tế học: tính giá trị thặng dư, hàm tổng từ hàm cận biên...
 ## 🌷 NỘI DUNG 
 ### Chương 1:  Kiến thức chuẩn bị
 🌹 Mở đầu về nguyên hàm: Định nghĩa nguyên hàm, họ nguyên hàm, vi phân và các tính chất cơ bản.
@@ -33,25 +33,25 @@ Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi nhữ
 ### Chương 2: Ứng dụng của tích phân trong thực tế
 🌹Hình học:  
 
-#h(2em) 🌻Tính diện tích hình phẳng (giới hạn bởi 1 hoặc nhiều đường cong). 
+🌻Tính diện tích hình phẳng (giới hạn bởi 1 hoặc nhiều đường cong). 
 
-#h(2em) 🌻Tính thể tích vật thể qua mặt cắt $S(x)$ và thể tích khối tròn xoay. 
+🌻Tính thể tích vật thể qua mặt cắt $S(x)$ và thể tích khối tròn xoay. 
 
-#h(2em) 🌻Công thức tính thể tích của các hình khối đặc biệt: chỏm cầu, chảo parabol, khối chóp cụt, khối nón cụt.   
+🌻Công thức tính thể tích của các hình khối đặc biệt: chỏm cầu, chảo parabol, khối chóp cụt, khối nón cụt.   
 
 🌹Vật lý và Cơ học 
 
-#h(2em) 🌻Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
+🌻Tính công của một lực biến đổi, tính quãng đường khi biết vận tốc biến thiên, xác định trọng tâm của vật thể. Các bài toán chuyển động...
 
-#h(2em) 🌻Mối liên hệ giữa gia tốc $a(t)$, vận tốc $v(t)$ và quãng đường/độ dịch chuyển $s(t)$
+🌻Mối liên hệ giữa gia tốc $a(t)$, vận tốc $v(t)$ và quãng đường/độ dịch chuyển $s(t)$
 
 🌹Kinh tế học
 
-#h(2em) 🌻Tìm hàm tổng thể (tổng chi phí $TC$, tổng doanh thu $TR$) từ hàm cận biên ($MC$, $MR$). 
+🌻Tìm hàm tổng thể (tổng chi phí $TC$, tổng doanh thu $TR$) từ hàm cận biên ($MC$, $MR$). 
 
-#h(2em) 🌻Tính tổng tích lũy (quỹ vốn) từ tốc độ thay đổi theo thời gian.  
+🌻Tính tổng tích lũy (quỹ vốn) từ tốc độ thay đổi theo thời gian.  
 
-#h(2em) 🌻Tính Thặng dư tiêu dùng ($CS$) và Thặng dư sản xuất ($PS$).
+🌻Tính Thặng dư tiêu dùng ($CS$) và Thặng dư sản xuất ($PS$).
 ### Chương 3: Bài tập minh họa
 Mỗi dạng bài gồm:
 
@@ -61,9 +61,15 @@ Mỗi dạng bài gồm:
 
 🌹Kèm theo danh mục bài tập tự luyện.
 ## 🌷 KẾ HOẠCH THỰC HIỆN
-🪷Tuần 1: Thu thập tài liệu tham khảo, tiến hành thực hiện phần mở đầu, vạch ý tưởng các chương 1, 2, 3.
+🪷Tuần 1: 
+- Thu thập tài liệu tham khảo, sách giáo khoa, giáo trình tài liệu nghiên cứu.
+- Tiến hành thực hiện phần mở đầu, vạch ý tưởng các chương 1, 2, 3.
 
-🪷Tuần 2: Hoàn thiện và rà soát lại nội dung các chương, dựa vào tài liệu tham khảo để tìm và giải bài tập minh họa của các dạng bài.
+🪷Tuần 2: 
+- Định dạng mục lục và tài liệu tham khảo.
+- Hoàn thiện và rà soát lại nội dung các chương.
+- Dựa vào tài liệu tham khảo để tìm và giải bài tập minh họa của các dạng bài.
+
 ### Định dạng đầu ra gồm:
   🪷File mã nguồn: tichphan.tex
   
@@ -72,3 +78,33 @@ Mỗi dạng bài gồm:
   🪷Các file tài liệu tham khảo kèm theo.
   
   🪷File README.md hướng dẫn sử dụng và biên dịch dự án.
+### 🌷TÀI LIỆU THAM KHẢO
+1. Nguyễn Minh Hà (Tổng Chủ biên), Bùi Văn Bình, Nguyễn Duy Tấn, Phạm
+Thị Thủy (2024), Toán 12 (Tập 2 - Bộ sách Kết nối tri thức với cuộc sống), Nhà
+xuất bản Giáo dục Việt Nam.
+
+ 2. Đỗ Đức Thái (Tổng Chủ biên), Phạm Xuân Chung, Nguyễn Sơn Hà,
+Nguyễn Thị Phương Loan, Phạm Sỹ Nam, Phạm Minh Phương (2023), Toán 12
+(Tập 2 - Bộ sách Cánh Diều), Nhà xuất bản Đại học Sư phạm.
+
+3. Trần Nam Dũng (Tổng Chủ biên), Trần Đức Huyên, Nguyễn Thành Anh
+(Chủ biên), Vũ Như Thư Hương, Ngô Hoàng Long, Phạm Hoàng Quân, Phạm
+Thị Thu Thủy (2024), Toán 12 (Tập 2 - Bộ sách Chân trời sáng tạo), Nhà xuất
+bản Giáo dục Việt Nam.
+
+4.  Cung Thế Anh, Trần Văn Tấn, Đặng Hùng Thắng (Đồng Chủ biên), Trần
+Mạnh Cường, Lê Văn Cường, Nguyễn Đạt Đăng, Lê Văn Hiện, Trần Đình Kế,
+Phạm Anh Minh, Nguyễn Thị Kim Sơn (2024), Toán 12 (Tập 2 - Bộ sách Kết
+nối tri thức với cuộc sống), Nhà xuất bản Giáo dục Việt Nam.
+
+5.  Lê Bá Bảo (Năm xuất bản). Ngân hàng câu hỏi: Tích phân - Ứng dụng tích
+phân tính diện tích hình phẳng (Hướng dẫn giải các dạng toán cơ bản chuyên
+đề ứng dụng tích phân trong hình học môn Toán lớp 12), Trường THPT Đăng
+Huy Trứ.
+
+ 6. Lê Minh Tâm (2023 -2024), Chương 03: Tích phân - Ứng dụng, tổng hợp
+lý thuyết chung và hướng dẫn giải các dạng bài tập chuyên đề nguyên hàm, tích
+phân và ứng dụng.
+
+7. Đặng Việt Đông (2025), Toán thực tế nguyên hàm, tích phân và ứng dụng,
+tài liệu đăng trên TOANMATH.com
