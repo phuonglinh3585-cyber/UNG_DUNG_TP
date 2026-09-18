@@ -32,7 +32,7 @@ Do đó, trong 2 tuần, đề tài tập trung trình bày 3 nội dung chính 
   
 Mặc dù đã cố gắng hoàn thiện, tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được ý kiến đóng góp từ quý thầy cô và các bạn. Tuy đã cố gắng trong quá trình thực hiện nhưng do kiến thức và kinh nghiệm còn hạn chế nên tiểu luận khó tránh khỏi những thiếu sót. Em rất mong nhận được những ý kiến đóng góp của quý thầy cô và các bạn để nội dung tiểu luận được hoàn thiện hơn.
 
-**💡Phần mở đầu**
+## 💡Phần mở đầu
 
 🌷Đối tượng nghiên cứu: Ứng dụng của tích phân trong các bài toán thực tế và phương pháp dạy học dạng toán này cho học sinh THPT.
 
